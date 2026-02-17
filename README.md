@@ -1,6 +1,5 @@
 <h1 align="center"> 💫 Hi 👋, My name is Sarb </h1>
 
-# 💫 About Me:
 A Passionate Full-Stack Developer | Engineer from INDIA 
 
 Email Me 👉 ✉️ mrsinghbusiness05@gmail.com For Collaboration/Project or Anything Else. 😊😊
