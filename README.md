@@ -7,12 +7,10 @@
 
 <p align="left"> <a href="https://twitter.com/iamsarb_001" target="blank"><img src="https://img.shields.io/twitter/follow/iamsarb_001?logo=twitter&style=for-the-badge" alt="iamsarb_001" /></a> </p>
 
-- 🌱 I’m currently learning **React ,NodeJS**
-
-- 💬 Ask me about **React,NodeJS,**
 
 - 📫 How to reach me **mrsinghbusiness05@gmail.com**
 
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=sarb001&theme=highcontrast&border_radius=4.7" alt="GitHub Streak" /></a>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/iamsarb_001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iamsarb_001" height="30" width="40" /></a>
